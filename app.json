@@ -1,7 +1,7 @@
 {
     "name": "Fawaz",
     "logo": "https://telegra.ph/file/8dee609d275d9e650b3ee.jpg",
-    "description": "UFO Music Voice Chat.",
+    "description": "اهلا وسهلا بك باقوى سورس مكالمات",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/FAWAZ5265/MuSiC",
     "stack": "container",
@@ -11,23 +11,23 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "هنا هتحط تكن بوتك يحبيب قلبي",
+            "description": "حط توكن بوتك",
             "required": true
         },
         "BOT_NAME": {
-            "description": "هنا هتحط اسم بوت الاغاني",
+            "description": "هنا بتحط اسم بوت الاغاني",
             "required": false,
             "value": "فواز"
         },
         "BOT_USERNAME": {
             "description": "يوزر نيــم البوت مالتك منغير علامه -> @",
             "required": true,
-            "value": "dndusha_bot"
+            "value": "d65bot"
         },
         "ASSISTANT_NAME": {
-            "description": "يوزر نيــم بوتك تاني منغير ->  @",
+            "description": "يوزر نيــم بوتك ثاني منغير ->  @",
             "required": true,
-            "value": "dndusha_bot"
+            "value": "d65bot"
         },
         "BG_IMAGE": {
             "description": "هنا هتحط صوره الخلفيه ان وجدت",
